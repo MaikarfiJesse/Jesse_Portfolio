@@ -8,13 +8,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
-  background-color: darkgreen;
-  color: ivory;
-}
-
-/* Apply yellow color to some elements of the text */
-h1, h2, h3, a {
-  color: yellow;
+  background-color: #333333;
+  color: #9ACD32
 }
 #header{
     width: 100%;
