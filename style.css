@@ -6,10 +6,9 @@
 }
 html{
     scroll-behavior: smooth;
-}
-body{
-  background-color: #333333;
-  color: #9ACD32
+body {
+  background-color: beige;
+  color: #333333;
 }
 #header{
     width: 100%;
